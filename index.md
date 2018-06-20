@@ -24,7 +24,7 @@ The lesson contains more material than can be taught in a day.  The [instructor 
 A variety of third party packages are used throughout this workshop. These
 are not necessarily the best, nor are they comprehensive, but they are
 packages we find useful, and have been chosen primarily for their
-usability.
+usability.   
 
 > ## Prerequisites
 >
